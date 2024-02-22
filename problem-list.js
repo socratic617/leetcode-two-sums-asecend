@@ -8,7 +8,7 @@
 
 // module.exports= twoSums
 
-function t  woSums(nums, target) {
+function twoSums(nums, target) {
   map = new Map();
   for (var i = 0; i < nums.length; i++) {
     var num = nums[i];
